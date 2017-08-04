@@ -1,0 +1,23 @@
+body {
+	background-image: url("http://s1.bwallpapers.com/thumbs2/2014/03/03/sea-bottom_015828661.jpg");
+	background-size: cover;
+	text-align: center;
+}
+h1 {
+	font-size: 50px;
+	padding-top: 20px;
+	color: coral;
+}
+
+.start {
+	float: center;
+}
+p {
+	color: #272727;
+}
+
+#quiz-area {
+	background: coral;
+	margin-right: 150px;
+	margin-left: 150px;
+}
